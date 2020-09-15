@@ -28,7 +28,7 @@
     "eslint": ">=6"
   },
   "devDependencies": {
-    "eslint": "^6.5.1"
+    "eslint": "^7.9.0"
   },
   "react-native": {
     "crypto": "react-native-crypto",
